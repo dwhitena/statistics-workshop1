@@ -10,13 +10,15 @@ author:
 --
 
 # Statistics for Data Science - Part 1
-## Probability
+## Probability, Bias, and More
 
 --
 
 ### Contents
 
 - Probability
+- Bias
+- Correlation
 - Summary Statistics
 - Conditional Probability
 
@@ -26,7 +28,7 @@ author:
 
 --
 
-# What is a function?
+# What is probability?
 
 --
 
