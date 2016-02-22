@@ -9,38 +9,43 @@ author:
 
 --
 
-# Statistics for Data Science - Part 1
-## Probability, Bias, and More
+# Practical Statistics for Data Science - Part 1
+## I might be *biased*, but this part is good
 
 --
 
 ### Contents
 
-- Probability
-- Bias
-- Correlation
-- Summary Statistics
-- Conditional Probability
+- Why Does a Data Scientist use Stats?
+- How Might I Describe My Beautiful Data?
+- We Probably Should Talk About Probability
+- What the #$@&%* is a Sample?
+- Let's Distribute our Data.
 
 --
 
-# First things first!
+# Why Does a Data Scientist use Stats?
 
 --
 
-# What is probability?
+- **Conveyance** - It turns out that Statistics is the natural language for describing sets of data, experiments, justifying results, etc.  So, as it also turns out, a data scientist uses Statistics to *convey* information about his/her work or about data.  
+
+- **Applicability** - Many models used by data scientists have an underpinning of statistical principles and assumptions.  Thus, a data scientist must understand statistics in order to determine *applicability* of models.
+
+- **Inference** - Well, we are scientists (I think), and statistical processes allow us to *infer* conclusions about populations or scientific truths from data.
 
 --
 
-> Generally speaking, a function is a "subprogram" that can be called by code external to the function.
+# How Might I Describe My Beautiful Data? 
+## (i.e., Descriptive Statistics)
 
 --
 
-# What is scope?
+Let's say I have the following values in a column of a table or in an array:
 
---
+	> 57, 18, 41, 37, 73, 80, 58, 9, ..., 19
 
-> In JavaScript, scope is the set of variables, objects, and functions you have access to.
+How could I describe this data, in general?  Guesses?
 
 --
 
