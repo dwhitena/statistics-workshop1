@@ -43,24 +43,19 @@ author:
 
 Let's say I have the following values in a column of a table or in an array:
 
-	> 57, 18, 41, 37, 73, 80, 58, 9, ..., 19
+	57, 18, 41, 37, 73, 80, 58, 9, ..., 19
 
 How could I describe this data, in general?  Guesses?
 
 --
 
-## Code.
-
-```js
-// Scope A
-var foo = 1;
-var myFunction = function () {
-  // Scope B
-  var bar = 2;
-};
-console.log(foo) // 1
-console.log(bar) // ReferenceError!
-```
+- **mean**
+- **median**
+- **mode**
+- **range**
+- **max**
+- **min**
+- **range**
 
 --
 
